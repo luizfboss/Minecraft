@@ -1,0 +1,1 @@
+Always when you change the texture, rename the png for 'texture.png'
